@@ -59,3 +59,5 @@ Route::resource('admissions', 'AdmissionController');
 Route::resource('teachers', 'TeachersController');
 
 Route::resource('roles', 'RoleController');
+
+Route::resource('users', 'UserController');
